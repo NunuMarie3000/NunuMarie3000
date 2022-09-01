@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NunuMarie3000
+- 👋 Hi, I’m Storm (they/them)
 - 👀 I’m interested in learning new ways to create!
 - 🌱 I’m currently learning a student at Code School with Code Crew Memphis and am learning Javascript and many of its affiliated frameworks and libraries
 <!-- - 💞️ I’m looking to collaborate on ...
