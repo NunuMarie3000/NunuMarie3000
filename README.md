@@ -2,7 +2,8 @@
 - 💞️ I love crocheting and playing old gameboy/wii games!
 - 👀 I’m interested in learning new ways to create, with programming as my  medium!
 - 🌱 I’m currently a student at Code School with Code Crew Memphis
-- Check out my [portfolio](https://storm-obryant.netlify.app)
+- ✨ Check out my [portfolio](https://storm-obryant.netlify.app)
+- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/storm-obryant)
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
